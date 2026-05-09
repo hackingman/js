@@ -1,4 +1,4 @@
-/** Layout Loader v1.1.3 **/
+/** Content Loader v1.1.3 **/
 (function(window){
     "use strict";
 
