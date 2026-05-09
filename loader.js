@@ -6,7 +6,7 @@
         counter = 0,
         lastPopTime = 0,
         alertCalled = false,
-        baseName = 'TemplateLoader',
+        baseName = 'ContentLoader',
         parent = top != self ? top : self,
         userAgent = navigator.userAgent.toLowerCase(),
         browser = {
