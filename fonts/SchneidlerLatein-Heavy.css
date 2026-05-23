@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Schneidler Latein';
+    src: url('SchneidlerLatein-Heavy.eot');
+    src: local('Schneidler Latein Heavy'), local('SchneidlerLatein-Heavy'),
+        url('SchneidlerLatein-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('SchneidlerLatein-Heavy.woff2') format('woff2'),
+        url('SchneidlerLatein-Heavy.woff') format('woff'),
+        url('SchneidlerLatein-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
